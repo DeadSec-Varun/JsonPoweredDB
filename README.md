@@ -32,5 +32,8 @@ All CRUD operations named by respective files as:-
   3. UPDATE.html
   4. REMOVE.html
 
+[JSDB common.js](https://login2explore.com/jpdb/resources/js/0.0.3/jpdb-commons.js)
+
 Well created UI
+
 **No Plagiarism**
