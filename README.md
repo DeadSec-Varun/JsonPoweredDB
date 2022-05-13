@@ -3,6 +3,8 @@ Login2Explore jpDB project
 
 [Documentation Link](http://login2explore.com/jpdb/docs.html)
 
+HTML files are inside **public_html** folder
+
 ##
 ## "This project is all about basics of JsonPowerDB (JPDB) and how to use JPDB for CRUD operations." 
 
@@ -21,3 +23,14 @@ Login2Explore jpDB project
 ### Release History
 
 Hosted on GitHub - 13 May 2022
+
+## About
+
+All CRUD operations named by respective files as:-
+  1. PUT.html
+  2. GET.html
+  3. UPDATE.html
+  4. REMOVE.html
+
+Well created UI
+**No Plagiarism**
